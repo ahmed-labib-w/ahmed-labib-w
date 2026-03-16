@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Ahmed 👋
+Web Developer specializing in React and Next.js.
 
+🔧 Tech Stack:
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- TailwindCSS
+- REST APIs
+
+🚀 Currently building portfolio projects and open to junior frontend opportunities.
 <!--
 **ahmed-labib-w/ahmed-labib-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
