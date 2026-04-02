@@ -2,8 +2,10 @@
 Web Developer specializing in React and Next.js.
 
 🔧 Tech Stack:
-- React
+- React.js
 - Next.js
+- Node.js
+- Express.js
 - JavaScript
 - TypeScript
 - TailwindCSS
